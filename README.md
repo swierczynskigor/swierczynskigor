@@ -12,6 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=swierczynskigor&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=swierczynskigor&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+sadly only the ones to my own repos count ;c
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=swierczynskigor&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
