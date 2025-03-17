@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently I am working as a full-stack dev in Luqam<br>📚 Also studying at AGH University (Medical Computer Science)<br>🫣 Trying to enjoy life and make the most of it<br><br>🙉 I have some side projects going on
+🔭 Currently I am working as a full-stack dev in Luqam and Descope<br>📚 Also studying at AGH University (Medical Computer Science)<br>🫣 Trying to enjoy life and make the most of it<br><br>🙉 I have some side projects going on
 
 
 ## 🌐 Socials:
